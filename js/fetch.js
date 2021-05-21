@@ -60,6 +60,4 @@ fetch('http://206.189.202.188:2593/api/articles/add', {
 fetch('http://206.189.202.188:2593/api/articles/delete?id=')
       .then(response => response.json())
       .then(data => console.log(data))
-
-
 */
